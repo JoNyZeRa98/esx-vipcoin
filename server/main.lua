@@ -1,5 +1,5 @@
 ESX = nil
-TriggerEvent('esx:getShILovePizzaaredObjILovePizzaect', function(obj) ESX = obj end)
+TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
 -- You can edit items there
 
