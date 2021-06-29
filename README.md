@@ -11,7 +11,7 @@
 # Import the sql file (You might need to adjust, depending on how you configured your Items DB)
 # To finally run the script add on your server.cfg
 
-start jony-vipcoin
+start esx-vipcoin
 
 
 
