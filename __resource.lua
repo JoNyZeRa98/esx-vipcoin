@@ -1,13 +1,28 @@
-resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
+--[[
+           ______________________________________
+  ________|              Esx-vipcoin             |_______
+  \       |        Developed by JoNyZeRa98       |      /
+   \      |         Discord: jonyzera#2168       |     /
+   /      |______________________________________|     \
+  /__________)                                (_________\
+  
+                 Discord: jonyzera#2168
+           GitHub: https://github.com/JoNyZeRa98
+]]--
+
+fx_version 'adamant'
+games { 'gta5' }
 
 
 author 'JoNyZeRa98'
 
+github 'https://github.com/JoNyZeRa98'
+
+discord 'jonyzera#2168'
+
 description 'Usable Object that gives a random reward'
 
 version '1.0'
-
-informations 'You can add me on discord for anything: jonyzera#2168'
 
 
 server_scripts {
