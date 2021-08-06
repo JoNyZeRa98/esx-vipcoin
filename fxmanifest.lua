@@ -22,7 +22,7 @@ discord 'jonyzera#2168'
 
 description 'Usable Object that gives a random reward'
 
-version '1.0'
+version '1.1'
 
 
 server_scripts {
